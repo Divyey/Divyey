@@ -1,7 +1,7 @@
 # 💫 About Me:
 - I am Divyey Arora.
 - I am AI/ML Specialist.
-- I love working on make innovative projects.
+- I love working on make innovative AI projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/divyey7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyey-arora-58b4a6202/) 
